@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sohambhattacharyya&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sohambhattacharyya&icon=1&color=6)](https://visitcount.itsvg.in) (counting since 8-Oct-2022)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SohamBhattacharyyaCA) 
