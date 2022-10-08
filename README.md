@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Image Processing, Computer Vision and Deep Learning at TCS.
+🔭 I’m currently working on Image Processing, Computer Vision and Deep Learning at TCS in India.
 
 
 ## 🌐 Socials:
