@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning, Image Processing and Computer Vision at TCS in India.
+🔭 I’m currently working on Deep Learning, Image Processing and Computer Vision at TCS in India. Prior to that, I did my MASc (Master of Applied Science) in Electrical and Computer Engineering from Dalhousie University, Canada. I was supervised by Prof. Dr. Jason Gu (President, IEEE Canada, 2020-2021). And the title of my thesis was "Improved Artificial Potential Field Method for Robotic Path Planning".
 
 
 ## 🌐 Socials:
